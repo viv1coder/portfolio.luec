@@ -9,9 +9,9 @@ const Experience = () => {
       <div className='Hackathon'>
          <div className='w-full flex  mt-10 border-purple-300'>
            <div className='w-1/2'>
-             <h1 className='text-5xl font-["Century_Gothic"] font-semibold'>Experience</h1>
-             <h1 className='mt-10 text-3xl font-["Century_Gothic"] mb-3 font-semibold'>Hack with utttarakhand(Hackathon)</h1>
-             <div className='w-[40vw] font-["Century_Gothic"] tracking-tight text-2xl'>
+             <h1 className='text-5xl font-custom2 font-semibold'>Experience</h1>
+             <h1 className='mt-10 text-3xl font-custom2 mb-3 font-semibold'>Hack with utttarakhand(Hackathon)</h1>
+             <div className='w-[40vw] font-custom2 tracking-tight text-2xl'>
                 My experience at my first hackathon, held at THDC IHT in Tehri Garhwal and organized by Hack with Uttarakhand,
                 was incredibly enriching. It was an amazing opportunity to immerse myself in the world of web development and
                 collaborate with passionate individuals. From the moment I started working on my project, I realized how much
@@ -33,7 +33,7 @@ const Experience = () => {
             </div>
           <div className='w-1/2 ml-20'>
              <h1 className='mt-10 text-3xl font-["Century_Gothic"] mb-3 font-semibold'>Internship by CodexIntern</h1>
-             <div className='w-[40vw] font-["Century_Gothic"] tracking-tight text-2xl'>
+             <div className='w-[40vw] font-custom2 tracking-tight text-2xl'>
                I had the incredible opportunity to attend my first internship with Codex Intern, and it was a fantastic experience.
                During my time there, I was able to apply my knowledge to real-world projects, which greatly enhanced my skills and
                understanding of the industry. I worked on several projects, each offering unique challenges that allowed me to 

@@ -7,7 +7,7 @@ const Navbar = () => {
       <span className=' text-2xl font-bold '>keul.io</span>
       
         
-      <div className='mt-1 flex gap-20'>
+      <div className='mt-1 flex gap-20 '>
         <a className='text-md font-light capitalize' href="">About</a>
         <a className='text-md font-light capitalize' href="">Experience</a>
         <a className='text-md font-light capitalize' href="">Projects</a>
