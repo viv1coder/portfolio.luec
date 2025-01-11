@@ -1,3 +1,19 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+    font-family: 'Bebas Neue';
+    font-family: 'Century Gothic';
+
+    src: url('/fonts/BebasNeue-Regular.woff2') format('woff2'),
+         url('/fonts/Century Gothic.woff2') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  body {
+    font-family: 'Bebas_Neue', sans-serif;
+    font-family: 'Century_Gothic , sans-serif';
+  }
+  
